@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACE,oBAAqB,CACrB,oBAAqB,CACrB,eACF","file":"style.6daa7364.css","sourceRoot":"..","sourcesContent":["#app {\n  border: 1px solid red;\n  color-adjust: economy;\n  transition: cubic-bezier();\n}\n"]}
